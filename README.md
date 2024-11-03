@@ -46,3 +46,13 @@ Notes on implementation:
 - don't use any frameworks
 
 When you've finished, send through the link to your github-repo.
+
+# Instruction
+
+## install dependencies and run unit test
+$npm install
+$npm test
+
+
+
+
