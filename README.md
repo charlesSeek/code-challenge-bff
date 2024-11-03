@@ -51,6 +51,7 @@ When you've finished, send through the link to your github-repo.
 
 ## install dependencies and run unit test
 `$npm install`
+
 `$npm test`
 
 
